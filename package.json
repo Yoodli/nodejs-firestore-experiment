@@ -48,6 +48,7 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "@google-cloud/firestore": "^7.9.0",
     "jest-cucumber": "^3.0.1"
   }
 }
